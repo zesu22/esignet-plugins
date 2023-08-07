@@ -1,1 +1,1 @@
-{"v":3,"stories":{}}
+{"v":3,"stories":{"about--docs":{"id":"about--docs","title":"About","name":"Docs","importPath":"./stories/About.stories.mdx","tags":["stories-mdx","docs"],"storiesImports":[],"kind":"About","story":"Docs","parameters":{"__id":"about--docs","docsOnly":true,"fileName":"./stories/About.stories.mdx"}}}}
